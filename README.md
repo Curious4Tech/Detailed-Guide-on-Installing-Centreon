@@ -121,7 +121,7 @@ After installation, configure pollers and start monitoring services.
 - Select **Central** and click **Export Configuration**.
   
 
-  ![image](https://github.com/user-attachments/assets/9ce93b7f-4f77-4d95-9797-37bea91c03e8)
+![image](https://github.com/user-attachments/assets/9ce93b7f-4f77-4d95-9797-37bea91c03e8)
 
 
 - Check **Move Export Files** and click **Export**.
@@ -154,8 +154,8 @@ After installation, configure pollers and start monitoring services.
   ```bash
   systemctl start snmpd
   ```
-  
-![image](https://github.com/user-attachments/assets/d0704246-c34e-44e0-aa5f-de422b2cc2e4)
+
+  ![image](https://github.com/user-attachments/assets/d0704246-c34e-44e0-aa5f-de422b2cc2e4)
 
 
 
@@ -187,10 +187,10 @@ To secure your Centreon platform:
 
 ---
 
-Your Centreon setup is now complete! You’re ready to start monitoring your IT infrastructure.
-
----
-
 ## Troubleshooting & Support
 
 If you encounter any issues during the setup, refer to the [official Centreon documentation](https://docs.centreon.com/) or seek help from the community.
+
+----
+
+Your Centreon setup is now complete! You’re ready to start monitoring your IT infrastructure.
